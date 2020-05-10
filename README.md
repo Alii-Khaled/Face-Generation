@@ -1,2 +1,2 @@
 # Face-Generation
-Implementation of Deep Convolution Generative Adversarial Neural Network in Faces Generation trained on Celebrities Dataset.
+Implementation of Faces Generation Project using Deep Convolution Generative Adversarial Neural Network trained on Celebrities Dataset.
